@@ -7,8 +7,6 @@ public class Test_GenerateRandomArray {
         }
         return arr;
     }
-
     public static void main(String[] args) {
-
     }
 }

@@ -14,5 +14,5 @@ public class Test_Method {
     public static int summa(int a, int b) {
         int c = a + b;
         return c;
-    }
+       }
 }
